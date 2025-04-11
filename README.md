@@ -45,10 +45,10 @@
 <h2 align="center">Estatísticas:</h2>
 
 <p align="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=X0Y0-dev&theme=shadow_red&hide_border=true&bg_color=00000000&text_color=CCCCCC)">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=X0Y0-dev&theme=shadow_red&hide_border=true&bg_color=00000000&text_color=FFFFFF">
   </br>
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=X0Y0-dev&theme=shadow_red&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&text_color=CCCCCC">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=X0Y0-dev&layout=compact&hide_border=true&theme=shadow_red&bg_color=00000000&text_color=CCCCCC">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=X0Y0-dev&theme=shadow_red&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&text_color=FFFFFF">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=X0Y0-dev&layout=compact&hide_border=true&theme=shadow_red&bg_color=00000000&text_color=FFFFFF">
 </p>
 
 
