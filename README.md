@@ -63,7 +63,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white">
 <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-6DAEDB.svg?logo=database&logoColor=6DAEDB&color=2D3748">
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=8EC5FC&color=white">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
 </p>
 
 </br>
@@ -117,5 +117,5 @@
 <p align="center">
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white">
 <img alt=".NET" src="https://img.shields.io/badge/.NET-000000?logo=dotnet&logoColor=7F52FF">
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=8EC5FC&color=white">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
 </p>
