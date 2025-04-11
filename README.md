@@ -13,11 +13,10 @@
 
 <hr/>
 
-<img align='right' src='https://i.kym-cdn.com/photos/images/newsfeed/002/429/796/96c.gif' width='50%'>  
+<h2 align="center">Informações:</h2>
+<img align='right' src='https://i.kym-cdn.com/photos/images/newsfeed/002/429/796/96c.gif' width='25%'>  
 
 </br>  
-
-<h2 align="center">Informações:</h2>
 
 * `Nome`: **Lucas Bernardo**
 * `Idade`: **18yo**
