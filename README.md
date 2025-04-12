@@ -11,8 +11,25 @@
     </br>
     Gosto de chocolate. <strong>Muito.</strong>
 </p>
-
 <hr/>
+</br>
+
+<h2 align='center'>Contato:</h2>
+<p align='center'>
+    <img alt='Gmail' src='https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white'> lucas.alves.bernardo@gmail.com</br>
+    <img alt='Telefone' src='https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white'> +55 (11) 93444-0506
+</p>
+<hr/>
+</br>
+
+<h2 align='center'>Acesse também:</h2>
+<p align='center'>
+    <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white'> <a href='linkedin.com/in/lucas-alves-bernardo-093871252'>Meu LinkedIn</a>.</br>
+    <img alt='Lattes' src='https://img.shields.io/badge/Lattes-005BA2?style=plastic&logo=bookstack&logoColor=005BA2&color=white'> <a href='http://lattes.cnpq.br/3140970100861437'>Meu Currículo Lattes</a>.
+</p>
+<hr/>
+
+
 </br> 
 
 
