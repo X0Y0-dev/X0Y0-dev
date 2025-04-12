@@ -108,7 +108,7 @@
     <img alt='CSS' src='https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white'>
     <img alt='HTML' src='https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white'>
     <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black'>
-    <img alt='Python' src='https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white'>
+    <img alt='Python' src='https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=3776AB'>
     <img alt='PHP' src='https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white'>
 </p>
 
@@ -132,15 +132,15 @@
     <img alt='CSS' src='https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white'>
     <img alt='HTML' src='https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white'>
     <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black'>
-    <img alt='Python' src='https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white'>
+    <img alt='Python' src='https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=3776AB'>
     <img alt='SQL' src='https://custom-icon-badges.demolab.com/badge/SQL-6DAEDB.svg?logo=database&logoColor=6DAEDB&color=2D3748'>
     <img alt='C++' src='https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white'>
-    <img alt='C++' src='https://custom-icon-badges.demolab.com/badge/C%23-512BD4.svg?logo=cs2&logoColor=white'>
+    <img alt='C#' src='https://custom-icon-badges.demolab.com/badge/C%23-512BD4.svg?logo=cs2&logoColor=white'>
 </p>
 
 <h4 align='center'>Ferramentas:</h4>
 <p align='center'>
     <img alt='Node.js' src='https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white'>
     <img alt='.NET' src='https://img.shields.io/badge/.NET-000000?logo=dotnet&logoColor=7F52FF'>
-    <img alt='MySQL' src='https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white'>
+    <img alt='MySQL' src='https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white'>
 </p>
