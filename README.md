@@ -65,6 +65,12 @@
   <img alt='GitHub Languages' height='50%' width='auto' src ='https://github-readme-stats.vercel.app/api/top-langs/?username=X0Y0-dev&layout=compact&hide_border=true&theme=shadow_red&bg_color=00000000&text_color=FFFFFF'>
 </p>
 
+<h2 align='center'>Minhas Conquistas</h2>
+
+<p align='left'>
+  <img alt='CISCO Badge Hardware' width='15%' src="https://github.com/user-attachments/assets/69e39af4-d103-4f08-a5a1-dcd6f42a357d">
+</p>
+
 <br>
 
 <h2 align='center'>Meus projetos:</h2>
