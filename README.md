@@ -58,7 +58,7 @@
 
 <p align='center'>
   <img alt='Dançandinho' align='left' src='https://media.tenor.com/q9CixI3CcrkAAAAj/dance.gif'>
-  <img alt='GitHub Streak' src ='https://streak-stats.demolab.com?user=X0Y0-dev&theme=shadow-red&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=0%2CEBEBEB00%2CEBEBEB00'>
+  <img alt='GitHub Streak' src ='https://github-readme-streak-stats.herokuapp.com?user=X0Y0-dev&theme=shadow-red&hide_border=true&locale=pt_BR'>
   <img alt='Dançandinho' align='right' src='https://media.tenor.com/q9CixI3CcrkAAAAj/dance.gif'>
   <br>
   <img alt='GitHub Stats' height='50%' width='auto' src ='https://github-readme-stats.vercel.app/api?username=X0Y0-dev&theme=shadow_red&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&text_color=FFFFFF'>
