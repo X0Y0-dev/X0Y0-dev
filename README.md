@@ -63,6 +63,7 @@
   <br>
   <img alt='GitHub Stats' height='50%' width='auto' src ='https://github-readme-stats.vercel.app/api?username=X0Y0-dev&theme=shadow_red&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&text_color=FFFFFF'>
   <img alt='GitHub Languages' height='50%' width='auto' src ='https://github-readme-stats.vercel.app/api/top-langs/?username=X0Y0-dev&layout=compact&hide_border=true&theme=shadow_red&bg_color=00000000&text_color=FFFFFF'>
+  <img alt='GitHub Contributions' src ='https://github-readme-activity-graph.vercel.app/graph?username=X0Y0-dev&bg_color=00000000&color=FFFFFF&line=B3001B&point=707070&area=true&area_color=FFFFFF80&hide_border=true&hide_title=true'>
 </p>
 
 <h2 align='center'>Minhas Conquistas</h2>
