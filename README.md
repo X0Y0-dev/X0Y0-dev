@@ -148,21 +148,27 @@
     <img alt='C#' src='https://custom-icon-badges.demolab.com/badge/C%23-512BD4.svg?logo=cs2&logoColor=white'>
     <img alt='C++' src='https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white'>
     <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black'>
+    <img alt='Java' src='https://img.shields.io/badge/Java-F89820?style=plastic&logo=openjdk&logoColor=white'>
     <br>
     <img alt='SQL' src='https://custom-icon-badges.demolab.com/badge/SQL-6DAEDB.svg?logo=database&logoColor=6DAEDB&color=2D3748'>
+    <img alt='PostgreSQL' src='https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white'>
     <img alt='HTML' src='https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white'>
     <img alt='CSS' src='https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white'>
-    <img alt='Markdown' src='https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white'>
+    <img alt='Markdown' src='https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white'>
+    <img alt='XML' src='https://img.shields.io/badge/XML-000000?style=plastic&logo=xml&logoColor=white'>
+
 </p>
 
 <h4 align='center'>Tecnologias e Plataformas:</h4>
 <p align='center'>
-    <img alt='.NET' src='https://img.shields.io/badge/.NET-000000?logo=dotnet&logoColor=7F52FF'>
+    <img alt='.NET' src='https://img.shields.io/badge/.NET-000000?style=plastic&logo=dotnet&logoColor=7F52FF'>
     <img alt='Node.js' src='https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white'>
     <br>
     <img alt='VSCode' src='https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white'>
     <img alt='Visual Studio' src='https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual-studio&logoColor=white'>
     <img alt='Arduino IDE' src='https://img.shields.io/badge/Arduino_IDE-00979D?style=plastic&logo=arduino&logoColor=white'>
     <img alt='MySQL' src='https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white'>
+    <img alt='Supabase' src='https://img.shields.io/badge/Supabase-3FCF8E?style=plastic&logo=supabase&logoColor=white'>
     <img alt='Figma' src='https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white'>
+    <img alt='Android Studio' src='https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white'>
 </p>
